@@ -24,7 +24,7 @@
 #### N.B In event you notice a merge conflict when making your pull request, pull from the original repository by setting it as an upstream
 -  Command to set upstream: ```git remote add upstream https://github.com/howtobuildx/HNG-Task-2-Team-Falcon```
 -  Command to pull from upstream: ```git pull upstream submissions```
-
+i am Joseph Ajemba
 Here is the link to the live server: https://hidden-falls-97449.herokuapp.com/
 
 ## Instructions For The Mentors
