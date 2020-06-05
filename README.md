@@ -28,7 +28,6 @@
 Here is the link to the live server: https://hidden-falls-97449.herokuapp.com/
 
 ## Instructions For The Mentors
-
 1.
 
 [fork]: https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.
